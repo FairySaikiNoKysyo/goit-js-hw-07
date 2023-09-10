@@ -24,4 +24,4 @@ const elements = {
     });
     
    
-     instance.show
+    instance.show
